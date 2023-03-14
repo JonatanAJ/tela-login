@@ -41,7 +41,7 @@ form {
 
     content: "";
 
-    width: 100px;
+    width: 115px;
 
     height: 1px;
 
@@ -49,9 +49,9 @@ form {
 
     display: block;
 
-    margin-top: -10px;
+    margin-top: -11px;
 
-    margin-left: 4px;
+    margin-left: 5px;
 }
 
 .user label {
@@ -87,6 +87,7 @@ form {
     color: #fff;
 
 }
+
 
 .footer {
 
